@@ -13,7 +13,6 @@
 [<img align="left" alt="GitHub" width="22px" src="assets/icons/github.svg" />][github]
 [<img align="left" alt="Instagram" width="22px" src="assets/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="assets/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Telegram" width="22px" src="assets/icons/telegram.svg" />][telegram]
 
 [linkedin]: https://www.linkedin.com/in/fahrul-ramadhan-putra-1914701b0/
 [instagram]: https://www.instagram.com/fahrulrputra/
